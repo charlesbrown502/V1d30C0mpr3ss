@@ -33,12 +33,6 @@ A Telegram Video Compressor Bot By [@AbirHasan2005](https://t.me/linux_repo). **
 ## Easy Deploy:
 <p><a href="https://heroku.com/deploy"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
 
-#### Video Tutorial:
-[![YouTube](https://img.shields.io/badge/YouTube-Video%20Tutorial-red?logo=youtube)](https://youtu.be/gMRsSqaUkio)
-
-### Support Group:
-<a href="https://t.me/DevsZone"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
-
 ## Required Configs:
 * `SESSION_NAME` - Any name of session. Better keep default.
 * `TG_BOT_TOKEN` - Get this from [@BotFather](https://t.me/BotFather)
